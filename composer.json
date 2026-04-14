@@ -1,8 +1,8 @@
 {
-    "name": "aferrandini/phpqrcode",
+    "name": "mipaaa/phpqrcode",
     "description": "PHPQRCode porting and changed for PHP 5.3 compatibility",
     "keywords": ["php", "qrcode", "barcode"],
-    "homepage": "https://github.com/aferrandini/PHPQRCode",
+    "homepage": "https://github.com/mipaaa/PHPQRCode",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -17,6 +17,5 @@
     },
     "autoload": {
         "psr-0": { "PHPQRCode": "lib/" }
-    },
-    "abandoned": "endroid/qr-code"
+    }
 }
